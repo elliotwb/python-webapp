@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import time,uuid
 from www.static.orm import Model,IntegerField,StringField
 
 
